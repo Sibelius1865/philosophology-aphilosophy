@@ -4,193 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dc6253c76282feca",
+        "id": "f937f3274bc4a7c9",
         "type": "tabs",
         "children": [
           {
-            "id": "5c13fb036b564289",
+            "id": "793ac1856ad1eb56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正当性.md",
+                "file": "事実的.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "正当性"
-            }
-          },
-          {
-            "id": "481a839e1dbc8e90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "必然性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "必然性"
-            }
-          },
-          {
-            "id": "1a3f0f7d347ed9db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "必当然性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "必当然性"
-            }
-          },
-          {
-            "id": "ee6d8d6940a700c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "偶然性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "偶然性"
-            }
-          },
-          {
-            "id": "76f2035a32dc8a67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "無.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "無"
-            }
-          },
-          {
-            "id": "8a1374af1a38932a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "無哲学.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "無哲学"
-            }
-          },
-          {
-            "id": "73b1527734a4e8bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "無哲学性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "無哲学性"
-            }
-          },
-          {
-            "id": "deb39e2e4561c3d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "無宇宙論.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "無宇宙論"
-            }
-          },
-          {
-            "id": "f91b33f4aa02ddcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "無根拠性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "無根拠性"
-            }
-          },
-          {
-            "id": "fe487dec0acf24d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "無関心.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "無関心"
-            }
-          },
-          {
-            "id": "8dcf15ba65bb73ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "現実的.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "現実的"
-            }
-          },
-          {
-            "id": "d7ce8c65e6b4afc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "理論.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "理論"
-            }
-          },
-          {
-            "id": "df8060b3a601a8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "相対性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "相対性"
+              "title": "事実的"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -331,34 +163,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df8060b3a601a8b7",
+  "active": "77ce608dc11c0c7f",
   "lastOpenFiles": [
-    "理論.md",
-    "相対性.md",
-    "現実的.md",
-    "無関心.md",
-    "無根拠性.md",
-    "無宇宙論.md",
-    "無哲学性.md",
-    "無哲学.md",
-    "無.md",
-    "偶然性.md",
-    "内在性.md",
-    "必当然性.md",
-    "哲学論.md",
-    "様相.md",
-    "必然性.md",
-    "正当性.md",
-    "権利.md",
-    "構成性.md",
-    "概念的.md",
-    "概念論的.md",
-    "概念論.md",
-    "概念.md",
-    "棄絶.md",
-    "判断.md",
-    "根源的恣意性.md",
-    "普遍性.md",
+    "離開.md",
+    "Untitled.md",
+    "開始当為.md",
+    "開始.md",
+    "還元.md",
+    "超越論.md",
+    "超越性.md",
+    "超越.md",
+    "論理.md",
+    "記述的.md",
+    "自閉性.md",
+    "自己正当化.md",
+    "批判の形而上学.md",
+    "自己批判の自己批判.md",
+    "自己批判.md",
+    "自己事実性.md",
+    "自己事実.md",
+    "自己事実的諸概念.md",
+    "置換可能性.md",
+    "絶対性.md",
+    "純粋哲学批判.md",
+    "純粋哲学.md",
+    "純粋性.md",
+    "無限.md",
+    "神学.md",
+    "真理性.md",
     "items",
     "Untitled 1.canvas",
     "Untitled.canvas"
