@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f937f3274bc4a7c9",
+        "id": "0d57abe5829dded0",
         "type": "tabs",
         "children": [
           {
-            "id": "793ac1856ad1eb56",
+            "id": "633ef2772fbc131b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "包摂可能性.md",
+                "file": "判断行為.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "包摂可能性"
-            }
-          },
-          {
-            "id": "f60918ea96db7c30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "正当性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "正当性"
+              "title": "判断行為"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -178,36 +163,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f60918ea96db7c30",
+  "active": "633ef2772fbc131b",
   "lastOpenFiles": [
-    "概念論.md",
-    "世界.md",
-    "叙述.md",
-    "概念的.md",
-    "事態.md",
-    "事実論的誤謬.md",
+    "正当性.md",
+    "抽象.md",
+    "権利.md",
+    "Untitled.canvas",
+    "2025-03-31.md",
     "事実.md",
-    "事実性.md",
-    "一般弁証論.md",
-    "根源的内在性.md",
-    "定義良好性.md",
-    "根源的留保.md",
-    "自己事実的諸概念.md",
-    "自己事実性.md",
     "内在性.md",
-    "対自性.md",
-    "弁証法.md",
-    "哲学論.md",
-    "概念.md",
-    "包摂可能性.md",
-    "事実的.md",
-    "離開.md",
-    "開始当為.md",
-    "開始.md",
-    "還元.md",
-    "超越論.md",
+    "自己事実的諸概念.md",
+    "根源的包摂可能性.md",
+    "世界.md",
+    "内在性の哲学.md",
+    "普遍妥当性.md",
+    "根源的恣意性.md",
+    "棄絶.md",
+    "批判一般.md",
+    "擬哲学.md",
+    "形而上学.md",
+    "当為.md",
+    "弁証法的批判.md",
+    "弁証法的双対.md",
+    "定立.md",
+    "宇宙.md",
+    "哲学者性.md",
+    "哲学的絶対者.md",
+    "哲学批判.md",
+    "哲学.md",
     "items",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }
